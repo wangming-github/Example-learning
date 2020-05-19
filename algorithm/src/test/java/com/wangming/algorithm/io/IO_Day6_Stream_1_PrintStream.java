@@ -3,7 +3,9 @@ package com.wangming.algorithm.io;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.io.*;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.PrintStream;
 
 /**
  * 打印流

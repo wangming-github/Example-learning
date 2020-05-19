@@ -1,7 +1,7 @@
 package com.wangming.algorithm.dataStructure;
 
 import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 /**
  * 单链表的常见面试题有如下:

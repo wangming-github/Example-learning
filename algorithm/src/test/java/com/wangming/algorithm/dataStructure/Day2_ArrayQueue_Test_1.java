@@ -1,10 +1,5 @@
 package com.wangming.algorithm.dataStructure;
 
-import com.sun.org.apache.xpath.internal.functions.FuncFalse;
-import org.junit.Before;
-import org.junit.Test;
-
-import java.io.*;
 import java.util.Scanner;
 
 

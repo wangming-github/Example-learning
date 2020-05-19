@@ -1,7 +1,6 @@
 package com.wangming.algorithm.io;
 
 import org.junit.Test;
-import org.springframework.test.context.TestPropertySource;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

@@ -1,8 +1,6 @@
 package com.wangming.algorithm.thread;
 
 
-import org.junit.Test;
-
 //实现窗口
 class Window_Security implements Runnable {
 

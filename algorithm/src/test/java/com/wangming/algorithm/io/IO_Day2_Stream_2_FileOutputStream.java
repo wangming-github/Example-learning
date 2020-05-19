@@ -1,10 +1,12 @@
 package com.wangming.algorithm.io;
 
 
-import javafx.scene.chart.Chart;
 import org.junit.Test;
 
-import java.io.*;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
 
 
 /**

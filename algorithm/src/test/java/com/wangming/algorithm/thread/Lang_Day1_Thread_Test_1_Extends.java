@@ -1,8 +1,6 @@
 package com.wangming.algorithm.thread;
 
 
-import org.junit.Test;
-
 /**
  * 模拟车站窗口售票 三个窗口 100张票
  */

@@ -2,7 +2,8 @@ package com.wangming.algorithm.io;
 
 import org.junit.Test;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.RandomAccessFile;
 
 /**
  * 随机存取流
